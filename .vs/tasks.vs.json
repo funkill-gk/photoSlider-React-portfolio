@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-I1",
+      "appliesTo": "src/images/I1.jpg",
+      "type": "launch"
+    }
+  ]
+}
